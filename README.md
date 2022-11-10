@@ -1,6 +1,6 @@
-# Veriff Test Assignment
+# Veriff Test Assignment
 
-## Roadmap to get the solution
+## Roadmap to get the solution
 
 The solution I've created basically was divided in different goals:
 
@@ -12,12 +12,12 @@ The solution I've created basically was divided in different goals:
 6) Generate the Keyboard Shortcuts.
 7) Test that every scenario is covered and make sure every piece matches with the task description.
 
-## Installation, Versions and How to run the project
+## Installation, Versions and How to run the project
 
 Node version: 14.15.4
 NPM version: 7.24.2
 
-# IMPORTANT: Make sure before running the project to use these Node and NPM versions
+### IMPORTANT: Make sure before running the project to use the versions mentioned before for Node and NPM.
 
 1) Clone project
 2) Run command `npm i` to install all the dependencies used in the project.
@@ -36,8 +36,7 @@ NPM version: 7.24.2
    ├─ utils      // Utility folder where we put functions that we'll be used multiple places
 ```
 
-## Brief solution description
+## Brief solution description
 
-All the logic applied how as well each piece of code is explained in every component, so that will be easy
+All the logic applied how as well each piece of code is explained in every component with clear comments, so that will be easy
 to follow the flow.
-
